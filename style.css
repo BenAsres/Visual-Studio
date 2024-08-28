@@ -1,0 +1,22 @@
+body {
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #4caf50;
+  text-align: center;
+}
+
+.video-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#animated-box {
+  width: 100px;
+  height: 100px;
+  background-color: #ff6347;
+  position: relative;
+  margin: 50px auto;
+}
